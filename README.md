@@ -5,13 +5,16 @@
 Designed and built a mobile app incorporating public user data, including UI design in Photoshop and Android Studio.
 Developed backend functionality using Java and Firebase integration.
 Delivered a comprehensive technical report showcasing the app’s performance.
+
 2. Team Project Approval System
 Developed a backend system using Java and Spring, with a SQL database to manage project proposals and approvals.
 Built RESTful APIs to support seamless interaction between frontend and backend systems.
 Led the project, ensuring successful planning and implementation within deadlines.
-3. Power BI Dashboards (Version 1)
+
+4. Power BI Dashboards (Version 1)
 Created interactive dashboards to visualise key business data for better decision-making.
 Managed databases and performed financial and performance analyses.
+
 🎯 Ongoing Development
 Currently, I’m enrolled in a Data Bootcamp, refining my skills in:
 
